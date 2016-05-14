@@ -1,0 +1,80 @@
+html{font-size:20px;}
+.content{width:16rem;}
+.content .h-top{width:16rem;height:7.5rem;position:relative;}
+.content .h-top .banner{position:absolute;left:0;top:0;width:16rem;height:6.675rem;}
+.h-top .banner a{width:100%;height:100%;display: none;}
+.h-top .banner a img{display: block;width:100%;}
+.h-top .banner a.show{display: block;}
+.h-top .btn{width:2.5rem;position:absolute;left:50%;bottom:0;margin-left:-1.25rem;}
+.h-top .btn li{width:0.25rem;height:0.25rem;border-radius: 50%;background:#a9a9a9;float:left;margin-right:0.25rem;}
+
+.h-bottom{width:16rem;}
+.h-bottom ul{width:100%;box-sizing: border-box;margin-left:1.325rem;}
+.h-bottom ul li{float:left;width:2rem;margin-right:1.8rem;margin-top:0.975rem;}
+.h-bottom ul li a{display: block;}
+.h-bottom ul li a img{display:block;width:100%;}
+.h-bottom ul li p{width:2rem;text-align: center;font-size:0.575rem;color:#999;font-family: 微软雅黑;line-height: 0.575rem;margin-top:0.48rem;}
+/*头部结束*/
+/*主题开始*/
+.main1{width:15rem;margin:0 auto;margin-top:1.05rem;}
+.main1 .main1-top{width:100%;height:1.825rem;color:#333;border-bottom:0.1rem solid #dcdcdc;}
+.main1-top h2{float:left;border-left:0.1rem solid #d51938;height:0.75rem;font-size:0.65rem;margin-top:0.55rem;padding-left:0.45rem;  }
+.main1-top span{float:right;margin-top:0.6rem;font-size:0.55rem;}
+
+.main1-bottom{margin-top:0.775rem;width:100%;}
+.main1-bottom li{width:100%;height:3rem;margin-bottom:0.5rem;}
+.left{float:left;width:1.5rem;height:3rem;background:#e00202;text-align: center;line-height:3rem;font-size:1.2rem;font-weight:bold;font-family: arial;color:#fff;}
+.main1-bottom li .center{width:4.5rem;height:3rem;float:left;}
+.main1-bottom li .center img{display: block;width:100%;}
+.main1-bottom li .right{width:9rem;height:3rem;float:left;background:#f4f4f4;}
+.main1-bottom li .right .infor-box{float:left;margin-left:0.55rem;margin-top:0.725rem;color:#999;}
+.infor-box .no-sell{text-decoration:line-through;}
+.infor-box p{font-size:0.6rem;height:0.6rem;margin-bottom:0.3rem;}
+.main1-bottom li .right .price-box{float:right;margin-top:1.025rem;}
+.price-box img{display: block;float:right;height:0.55rem;width:0.325rem;margin-right:0.5rem;margin-top:0.2rem;}
+.price-box span{font-size:0.8rem;color:#d51938;font-weight: bold;float:left;}
+.c2{background:#ff4800}
+.c3{background:#ff7300}
+.c4{background:#ff9d00}
+.c5{background:#ffa800}
+.c6{background:#ffb400}
+.c7{background:#ffba00}
+.c8{background:#fcd000}
+.c9{background:#ffd719}
+.c10{background:#ffe152}
+
+
+.division{display:block;width:15rem;height:2rem;background:#f5f5f5;text-align: center;line-height:2rem;font-size:0.675rem;color:#666;
+margin:0 auto;margin-top:0.5rem;}
+
+.type{width:15.025rem;margin:0 auto;margin-top:0.5rem;box-sizing:border-box;}
+.type-left{float:left;width:3.75rem;height:8.8rem;}
+.type-left img{width:100%;height:100%;display: block;}
+.type-right{float:left;width:11.225rem;height:8.75rem;border-left:1px solid #eee;border-bottom:1px solid #eee;box-sizing: border-box;}
+.type-right li{width:3.725rem;height:2.175rem;border-right:1px solid #eee;border-top:1px solid #eee;float:left;box-sizing: border-box;}
+.type-right li a{display: block;text-align: center;width:100%;height:100%;line-height:2.15rem;font-size:0.675rem;color:#999;}
+
+
+.contact{width:14.95rem;margin:0 auto;margin-top:0.825rem;border-left:1px solid #dcdcdc;border-top:1px solid #dcdcdc;box-sizing: border-box;}
+.contact li{float:left;width:4.95rem;height:3.95rem;border-right:1px solid #dcdcdc;border-bottom:1px solid #dcdcdc;box-sizing: border-box;}
+.contact li a{display: block;width:100%;height:100%;}
+.contact li a img{display: block;width:100%;}
+
+.login-box{width:16rem;height:2.2rem;background:#f8f8f8;margin-top:0.7rem;}
+.login-box .login{font-size:0.675rem;margin-left:0.75rem;font-weight: bold;float:left;line-height: 2.2rem;height:100%;}
+.login-box .add{font-size:0.675rem;margin-left:1.175rem;font-weight: bold;float:left;line-height: 2.2rem;height:100%;}
+.login-box em{float:right;width:0.425rem;margin-right:0.7rem;margin-top:0.925rem;}
+.login-box em img{display: block;width:100%;}
+.login-box span{float:right;height:100%;font-size:0.55rem;margin-top:0.8rem;margin-right:0.475rem;}
+
+footer{width:16rem;height:8.575rem;background:#eee;text-align: center;}
+footer div{float:left;margin-left:5.625rem;padding-top:1.05rem;}
+footer div .a-1{float:left;margin-right:0.65rem;font-size:0.7rem;color:#333;font-weight: bold;display: inline-block}
+footer p{font-size:0.5rem;color:#999;float:left;margin-left:3.6rem;margin-top:0.825rem;}
+footer p a{margin-left:0.5rem;color:#999;}
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+*{margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6,b,strong{font-weight:normal;}
+i,em{font-style:normal;}
+ul li,ol li{list-style:none;}
+a{text-decoration:none;}
+body{ font-size:12px; font-family:Tahoma,Helvetica,arial,sans-serif,"Î¢ÈíÑÅºÚ";}
+.clearfix:after{ display:block; content:''; clear:both;}
+.clearfix{ zoom:1;}
+input{ outline:none; border:none; background:none;}
+input,textarea,select{ margin:0; }
+input,textarea{ padding:0;}
+input::-ms-clear{display:none;}
